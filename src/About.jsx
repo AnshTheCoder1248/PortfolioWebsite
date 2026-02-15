@@ -29,8 +29,8 @@ function Aboutme() {
 
       <div className="section1title">Bio</div>
       <h3 className="Bio-Name"> Name: Ansh Shah</h3>
-      <h3 className="Bio-Age"> Age: 16 years old </h3>
-      <h3 className="Bio-Grade"> Grade: Sophomore</h3>
+      <h3 className="Bio-Age"> Age: 17 years old </h3>
+      <h3 className="Bio-Grade"> Grade: Junior</h3>
 
       <div className="section2title"> Background Info</div>
       <p>
