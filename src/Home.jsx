@@ -2,19 +2,19 @@ import { Link } from "react-router-dom";
 import Portfolio from "./Portfolio";
 import Aboutme from "./About";
 import Contact from "./Contact Me";
-import Meta from "./assets/Meta.svg";
-import Amazon from "./assets/Amazon.svg";
-import Netflix from "./assets/Netflix.svg";
-import Google from "./assets/Google.svg";
-import Apple from "./assets/Apple.svg";
+import Meta from "./assets/meta.svg";
+import Amazon from "./assets/amazon.svg";
+import Netflix from "./assets/netflix.svg";
+import Google from "./assets/google.svg";
+import Apple from "./assets/apple.svg";
 import Microsoft from "./assets/Microsoft.png";
 import Github from "./assets/github.svg";
 import Figma from "./assets/figma.svg";
-import React from "./assets/React.svg";
-import Vite from "./assets/Vite.svg";
-import CSS from "./assets/CSS3.svg";
-import HTML from "./assets/HTML5.svg";
-import Node from "./assets/Node.svg";
+import React from "./assets/react.svg";
+import Vite from "./assets/vite.svg";
+import CSS from "./assets/css3.svg";
+import HTML from "./assets/html5.svg";
+import Node from "./assets/node.svg";
 
 function Home() {
   return (

@@ -7,13 +7,13 @@ import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
-import Javascript from "./assets/Javascript.svg";
-import CSS from "./assets/CSS3.svg";
-import HTML from "./assets/HTML5.svg";
+import Javascript from "./assets/javascript.svg";
+import CSS from "./assets/css3.svg";
+import HTML from "./assets/html.svg";
 import buffer from "./assets/NightWallpaper.jpg";
-import rct from "./assets/React.svg";
-import Node from "./assets/Node.svg";
-import Vite from "./assets/Vite.svg";
+import rct from "./assets/react.svg";
+import Node from "./assets/node.svg";
+import Vite from "./assets/vite.svg";
 function Portfolio() {
   return (
     <>

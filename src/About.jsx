@@ -2,13 +2,13 @@ import { Link } from "react-router-dom";
 import Home from "./Home";
 import Portfolio from "./Portfolio";
 import Profile from "./assets/About Me Profile.jpg";
-import rct from "./assets/React.svg";
-import Node from "./assets/Node.svg";
-import Javascript from "./assets/Javascript.svg";
-import CSS from "./assets/CSS3.svg";
-import HTML from "./assets/HTML5.svg";
-import Python from "./assets/Python.svg";
-import Vite from "./assets/Vite.svg";
+import rct from "./assets/react.svg";
+import Node from "./assets/node.svg";
+import Javascript from "./assets/javascript.svg";
+import CSS from "./assets/css3.svg";
+import HTML from "./assets/html5.svg";
+import Python from "./assets/python.svg";
+import Vite from "./assets/vite.svg";
 function Aboutme() {
   return (
     <>
