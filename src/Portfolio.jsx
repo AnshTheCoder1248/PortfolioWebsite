@@ -9,7 +9,7 @@ import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import Javascript from "./assets/javascript.svg";
 import CSS from "./assets/css3.svg";
-import HTML from "./assets/html.svg";
+import HTML from "./assets/html5.svg";
 import buffer from "./assets/NightWallpaper.jpg";
 import rct from "./assets/react.svg";
 import Node from "./assets/node.svg";
